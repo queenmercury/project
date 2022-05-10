@@ -1,0 +1,56 @@
+
+<html>
+<head>
+ <style>
+     body {
+  background: #202020;
+  padding: 20px 0;
+}
+.my-container {
+    position: relative;
+    background: #696969;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.4;
+    background-image: url('maxresdefault.jpg');
+    background-repeat: yes-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+}
+.text h1 {
+    padding: 20px;
+    text-align: left;
+    z-index: 2;
+    position: relative;
+    color: #0ff;
+    font-size: 75px;
+}
+.text h2 {
+	padding:20px;
+    text-align: left;
+    z-index: 2;
+    position: relative;
+    color:#0aa;
+    font-size: 40px;
+</style></head>
+<body>
+      <div class="text">
+      <h1 class="text">Congrats You Made a Website</h1>
+	  <h2 class="text">now leave</h2>
+      </div>
+      <div class="my-container">
+      </div>
+ 
+
+</body>
+
+      </div>
+      <div class="my-container">
+      </div>
+ 
+
+</body>
